@@ -1,6 +1,6 @@
-# 🚀 takeUforward (TUF+) DSA Checklist
+# 🚀 DSA-Check-List
 
-Welcome to the **TUF+ DSA Checklist** repository! This repository provides a highly structured and comprehensive roadmap for mastering Data Structures and Algorithms (DSA), heavily inspired by the popular takeUforward (Striver) DSA sheet. 
+Welcome to the **DSA-Check-List** repository! This repository provides a highly structured and comprehensive roadmap for mastering Data Structures and Algorithms (DSA), heavily inspired by the popular takeUforward (TUF+) DSA sheet. 
 
 Whether you are preparing for technical interviews at top tech companies or just starting your competitive programming journey, this checklist will help you track your progress systematically.
 
