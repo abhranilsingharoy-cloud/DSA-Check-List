@@ -63,4 +63,4 @@ Contributions are always welcome! If you have suggestions for adding new resourc
 Give a ⭐️ if this project helped you in your interview preparation!
 
 ---
-*Happy Coding and Best of Luck with your DSA Journey!* 💻✨
+*Happy Coding and Best of Luck with your DSA Journey!* 💻
